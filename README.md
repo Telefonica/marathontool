@@ -16,7 +16,7 @@ Marathon Tool is a POC for using heavy queries to perform a Time-Based Blind SQL
 * Configurable Log
 
 ### Common Help Topics
-* Configuration
+* [Configuration](https://github.com/Telefonica/marathontool/wiki/Configuration)
 
 ### Reference Links
 * http://technet.microsoft.com/en-us/library/cc512676.aspx
